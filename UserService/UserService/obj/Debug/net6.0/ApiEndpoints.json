@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "UserService.Controllers.UserDetailController",
+    "Method": "GetAllUserDetails",
+    "RelativePath": "api/UserDetail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserService.Controllers.UserDetailController",
+    "Method": "Create",
+    "RelativePath": "api/UserDetail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "UserService.Entities.UserDetailCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserService.Controllers.UserDetailController",
+    "Method": "GetUserAccountById",
+    "RelativePath": "api/UserDetail/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

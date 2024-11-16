@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\database\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\database\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\services\\userdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\services\\userdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\controllers\\userdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\userdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\services\\userdetailprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\services\\userdetailprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\services\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\services\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\entities\\userdetailresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\entities\\userdetailresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\applicationservicesregistry\\applicationservicesregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\applicationservicesregistry\\applicationservicesregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thanasekaran_T\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|c:\\mtech\\study\\scalableservice\\assignment\\userservice\\userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7924887B-A934-4014-8D9A-D42428C0F70B}|UserService\\UserService.csproj|solutionrelative:userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:43:07.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Startup.cs",
+              "RelativeDocumentMoniker": "UserService\\Startup.cs",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Startup.cs",
+              "RelativeToolTip": "UserService\\Startup.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:01:24.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.csproj",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\UserService.csproj",
+              "RelativeDocumentMoniker": "UserService\\UserService.csproj",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\UserService.csproj",
+              "RelativeToolTip": "UserService\\UserService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T14:02:23.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDetailController.cs",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Controllers\\UserDetailController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\UserDetailController.cs",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Controllers\\UserDetailController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\UserDetailController.cs",
+              "ViewState": "AgIAABcAAACgL8NRqqYuwCkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:35:24.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\DataBase\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\DataBase\\UserAccountRepository.cs",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\DataBase\\UserAccountRepository.cs",
+              "RelativeToolTip": "UserService\\DataBase\\UserAccountRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:08:04.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T11:49:08.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDetailService.cs",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Services\\UserDetailService.cs",
+              "RelativeDocumentMoniker": "UserService\\Services\\UserDetailService.cs",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Services\\UserDetailService.cs",
+              "RelativeToolTip": "UserService\\Services\\UserDetailService.cs",
+              "ViewState": "AgIAAAoAAACAa/Vsw2wCwCEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:46:46.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceException.cs",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Services\\ServiceException.cs",
+              "RelativeDocumentMoniker": "UserService\\Services\\ServiceException.cs",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Services\\ServiceException.cs",
+              "RelativeToolTip": "UserService\\Services\\ServiceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:03:26.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDetailProfile.cs",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Services\\UserDetailProfile.cs",
+              "RelativeDocumentMoniker": "UserService\\Services\\UserDetailProfile.cs",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Services\\UserDetailProfile.cs",
+              "RelativeToolTip": "UserService\\Services\\UserDetailProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:35:15.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Models\\BaseModel.cs",
+              "RelativeToolTip": "UserService\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:48:14.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.Development.json",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\appsettings.Development.json",
+              "RelativeToolTip": "UserService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T11:53:28.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDetailResponseDto.cs",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Entities\\UserDetailResponseDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Entities\\UserDetailResponseDto.cs",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Entities\\UserDetailResponseDto.cs",
+              "RelativeToolTip": "UserService\\Entities\\UserDetailResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:43:09.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationServicesRegistry.cs",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\ApplicationServicesRegistry\\ApplicationServicesRegistry.cs",
+              "RelativeDocumentMoniker": "UserService\\ApplicationServicesRegistry\\ApplicationServicesRegistry.cs",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\ApplicationServicesRegistry\\ApplicationServicesRegistry.cs",
+              "RelativeToolTip": "UserService\\ApplicationServicesRegistry\\ApplicationServicesRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:06:23.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\Thanasekaran_T\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\Thanasekaran_T\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\Thanasekaran_T\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\Thanasekaran_T\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAIwNgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-12T11:54:03.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\MTech\\STUDY\\ScalableService\\Assignment\\UserService\\UserService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAABxwAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T11:53:32.928Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1075,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
