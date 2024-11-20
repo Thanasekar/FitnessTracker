@@ -34,7 +34,13 @@ namespace UserService.DataBase
 
         public UserDetail GetUserDetails(Guid userId)
         {
-            return _context?.UserDetail?.FirstOrDefault(x => x.Id == userId) ?? throw new InvalidOperationException();
+            var userDetail = _context?.UserDetail?.FirstOrDefault(x => x.Id == userId);
+
+            if (userDetail == null)
+            {
+                throw new InvalidOperationException($"No user found with ID {userId}");
+            }
+            return userDetail;
         }
         public List<UserDetail> GetUserDetails()
         {
