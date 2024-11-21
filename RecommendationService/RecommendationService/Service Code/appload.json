@@ -1,0 +1,11 @@
+{
+    "activities": [
+      {"UserId": 1, "Date": "2024-11-21", "Steps": 5000, "ExerciseMinutes": 20},
+      {"UserId": 2, "Date": "2024-11-21", "Steps": 12000, "ExerciseMinutes": 40}
+    ],
+    "healthMetrics": [
+      {"UserId": 1, "Date": "2024-11-21", "HeartRate": 110, "Calories": 1500},
+      {"UserId": 2, "Date": "2024-11-21", "HeartRate": 75, "Calories": 2500}
+    ]
+  }
+  
