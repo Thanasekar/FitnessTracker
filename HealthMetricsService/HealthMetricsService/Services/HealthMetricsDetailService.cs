@@ -37,6 +37,7 @@ namespace HealthMetricsService.Services
 
             var healthMetrics = new HealthMetrics
             {
+                Id = userDetailDto.UserId,
                 FirstName = userActivityDetail.Result.FirstName,
                 LastName = userActivityDetail.Result.LastName,
                 Phone = userActivityDetail.Result.Phone,

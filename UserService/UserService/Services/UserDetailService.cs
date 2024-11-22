@@ -24,30 +24,41 @@ namespace UserService.Services
 
         public UserDetail CreateUserDetail(UserDetailCreateDto userDetailDto)
         {
-            if (_userAccountRepository.AccountExists(userDetailDto.Email))
+            try
             {
-                throw new ConflictException("User account already exists");
+                if (_userAccountRepository.AccountExists(userDetailDto.Email, userDetailDto.Phone))
+                {
+                    throw new ConflictException("User Email or Phone already exists");
+                }
+
+                var user = _mapper.Map<UserDetail>(userDetailDto);
+
+                _userAccountRepository.AddUserDetail(user);
+                _userAccountRepository.SaveChanges();
+
+                return user;
             }
-
-            var user = _mapper.Map<UserDetail>(userDetailDto);
-
-            _userAccountRepository.AddUserDetail(user);
-            _userAccountRepository.SaveChanges();
-
-            return user;
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message, "User Email or Phone already exists");
+               
+            }
+            return null;
         }
 
         public UserDetailResponseDto GetUserDetailById(Guid userId)
         {
-            var userDetail = _userAccountRepository.GetUserDetails(userId);
-
-            if (userDetail == null)
+            try
             {
-
-                throw new NotFoundException("No user account has been found");
+                var userDetail = _userAccountRepository.GetUserDetails(userId);
+                return _mapper.Map<UserDetailResponseDto>(userDetail);
             }
-
-            return _mapper.Map<UserDetailResponseDto>(userDetail);
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message, "No user account has been found");
+                
+            }
+            return null;
         }
 
         public List<UserDetailResponseDto> GetAllUserDetails()

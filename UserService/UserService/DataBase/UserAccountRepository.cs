@@ -5,7 +5,7 @@ namespace UserService.DataBase
     public interface IUserAccountRepository
     {
         public void AddUserDetail(UserDetail userDetail);
-        public bool AccountExists(string? email = null);
+        public bool AccountExists(string? email = null, long phone = 0);
         public void SaveChanges();
         public UserDetail GetUserDetails(Guid userId);
         public List<UserDetail> GetUserDetails();
@@ -22,10 +22,10 @@ namespace UserService.DataBase
         {
             _context.UserDetail.Add(userDetail);
         }
-        public bool AccountExists(string? email = null)
+        public bool AccountExists(string? email = null, long phone = 0)
         {
 
-            return _context.UserDetail.Any(a => (a.Email == email));
+            return _context.UserDetail.Any(a => (a.Email == email && a.Phone == phone));
         }
         public void SaveChanges()
         {

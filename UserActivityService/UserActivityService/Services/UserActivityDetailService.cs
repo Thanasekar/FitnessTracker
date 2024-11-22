@@ -54,15 +54,18 @@ namespace UserActivityService.Services
 
         public UserActivityResponseDto GetUserDetailById(Guid userId)
         {
-            var userDetail = _userActivityRepository.GetUserDetails(userId);
-
-            if (userDetail == null)
+            try
             {
+                var userDetail = _userActivityRepository.GetUserDetails(userId);
 
-                throw new NotFoundException("No user account has been found");
+                return _mapper.Map<UserActivityResponseDto>(userDetail);
             }
-
-            return _mapper.Map<UserActivityResponseDto>(userDetail);
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message, "No user account found");
+                return null;
+            }
+            
         }
 
         public List<UserActivityResponseDto> GetAllUserDetails()
