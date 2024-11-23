@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using UserActivityService.Controllers.DataBase;
+using UserActivityService.DataBase;
 using UserActivityService.Services;
 
 namespace UserActivityService.ApplicationServicesRegistry

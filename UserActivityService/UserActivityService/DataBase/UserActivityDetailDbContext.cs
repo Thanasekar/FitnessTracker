@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using UserActivityService.Models;
 
-namespace UserActivityService.Controllers.DataBase
+namespace UserActivityService.DataBase
 {
     public class UserActivityDetailDbContext : DbContext
     {

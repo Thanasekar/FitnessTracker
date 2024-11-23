@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using UserActivityService.Controllers.DataBase;
+using UserActivityService.DataBase;
 using UserActivityService.Entities;
 using UserActivityService.Models;
 

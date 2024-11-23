@@ -3,8 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ApplicationModels;
 using Microsoft.EntityFrameworkCore;
 using UserActivityService.ApplicationServicesRegistry;
-using UserActivityService.Controllers.DataBase;
-using UserActivityService.Services;
+using UserActivityService.DataBase;
 
 namespace UserActivityService
 {

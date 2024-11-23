@@ -40,6 +40,11 @@ namespace UserService.Controllers
         {
 
             var userDetail = _userDetailService.CreateUserDetail(user);
+            if (userDetail == null)
+            {
+                string message = "User Details already exist";
+                return StatusCode(StatusCodes.Status201Created, message);
+            }
             return StatusCode(StatusCodes.Status201Created, userDetail);
             
         }

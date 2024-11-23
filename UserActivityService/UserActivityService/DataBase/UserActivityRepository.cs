@@ -1,6 +1,6 @@
 ﻿using UserActivityService.Models;
 
-namespace UserActivityService.Controllers.DataBase
+namespace UserActivityService.DataBase
 {
     public interface IUserActivityRepository
     {
